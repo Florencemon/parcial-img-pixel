@@ -51,4 +51,6 @@ Las de `frontend/samples/` son de dominio público, vía Wikimedia Commons:
 
 ## Integrantes
 
-- _completar_
+- Rocio Vazquez
+- Gaston Ramirez
+- Abigail Nina 
